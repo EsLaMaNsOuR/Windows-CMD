@@ -1,0 +1,5 @@
+F:\New folder (3)\OSProject\OSProject\bin\Debug\OSProject.exe.config
+F:\New folder (3)\OSProject\OSProject\bin\Debug\OSProject.exe
+F:\New folder (3)\OSProject\OSProject\bin\Debug\OSProject.pdb
+F:\New folder (3)\OSProject\OSProject\obj\Debug\OSProject.exe
+F:\New folder (3)\OSProject\OSProject\obj\Debug\OSProject.pdb
